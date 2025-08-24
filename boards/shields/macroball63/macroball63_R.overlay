@@ -1,4 +1,4 @@
-/include/ "macroball63.dtsi"
+#include/ "macroball63.dtsi"
 
 &default_transform {
     col-offset = <6>;
