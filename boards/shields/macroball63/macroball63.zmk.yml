@@ -1,0 +1,8 @@
+file_format: "1"
+id: macroball63
+name: macroball63
+type: shield
+url: https://github.com/Yu1812/zmk-config-macroBall63
+requires: [seeeduino_xiao_ble]
+features:
+  - keys

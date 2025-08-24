@@ -1,0 +1,5 @@
+config SHIELD_macroball63_R
+    def_bool $(shields_list_contains,macroball63_R)
+
+config SHIELD_macroball63_L
+    def_bool $(shields_list_contains,macroball63_L)
